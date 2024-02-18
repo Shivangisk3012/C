@@ -1,6 +1,6 @@
 import React from 'react'
-import ProfileSummary from './components/profileSummary'
-import SearchCom from './components/searchCom'
+import ProfileSummary from './components/ProfileSummary'
+import SearchCom from './components/SearchCom'
 import data from './assets/constant/data'
 import NewForm from './components/NewForm'
 import { useState } from 'react'
