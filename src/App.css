@@ -1,0 +1,26 @@
+// useEffect(() => {
+    //   const savedResults = Cookies.get('results');
+    //   if (savedResults) {
+    //     setContacts(JSON.parse(savedResults));
+    //   }
+    // }, []);
+  
+    // useEffect(() => {
+    //   Cookies.set('contacts', JSON.stringify(contacts), { expires: 365 }); // Set an expiration date
+    // }, [contacts]);
+  
+
+
+
+    // console.log(name, email)
+    // if (name === '' || email === '') {
+    //   alert('Please fill all the fields')
+    // } else {
+    //   const newresult={name,email};
+    //   setContacts([...contacts, newresult])
+    //   console.log(contacts,"contacts");
+    //   console.log(newresult,"newresult");
+    //   setName('')
+    //   setEmail('')
+
+    // }  
